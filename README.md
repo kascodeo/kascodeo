@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kas
+- 👋 Hi, I’m Kas (Karim A S)
 - 👀 I’m interested in python programing, devops and open source
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on python projects
